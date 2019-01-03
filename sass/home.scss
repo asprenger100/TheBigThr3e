@@ -1,0 +1,20 @@
+@import 'base';
+
+body {
+    font-family: "GFSDidotRegular";
+    color: $color;
+    background-color: $bcolor;
+}
+
+.head {
+    text-align: center;
+}
+
+.body {
+    text-align: justify;
+}
+
+a {
+    font-family: "OpenBaskerville0053Normal";
+    color: $color;
+}
