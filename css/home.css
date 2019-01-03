@@ -1,0 +1,18 @@
+@import url("https://fontlibrary.org/face/gfs-didot");
+@import url("https://fontlibrary.org/face/open-baskerville");
+body {
+  font-family: "GFSDidotRegular";
+  color: black;
+  background-color: #FFF7AC; }
+
+.head {
+  text-align: center; }
+
+.body {
+  text-align: justify; }
+
+a {
+  font-family: "OpenBaskerville0053Normal";
+  color: black; }
+
+/*# sourceMappingURL=home.css.map */
